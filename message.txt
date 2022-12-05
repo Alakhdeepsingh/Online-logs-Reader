@@ -1,0 +1,110 @@
+
+hello
+
+
+
+
+hi from 1
+hi from 1
+hi from 1
+
+hi from 1
+hi from 1
+hi from 2
+
+
+
+
+
+
+{
+    "data" :"hi from 1"
+}
+{
+    "data" :"hi from 1"
+}
+{
+    "data" :"hi from 2"
+}
+"hi"
+"hwllo"
+hwllo his
+hwllo his
+hwllo his
+"hi"
+"hi"
+
+
+
+
+
+msg
+msg
+msg
+hello
+hwllo his
+hello
+undefined
+undefined
+undefined
+undefined
+hwllo tshi is 
+hwllo tshi is 
+hwllo tshi is 
+hwllo tshi is 
+hwllo tshi is siddhartha
+"hi"
+"hi"
+"hi"
+hwllo tshi is siddhartha
+"hi"
+"hi"
+"hi"
+hwllo this is from client 2
+tuute makan
+tuute makan ek baar milkar firse judte kahan hai
+hwllo this is from client 2
+hwllo this is from client 2
+hello shi s is
+hello shi s is
+hello shi s is
+hello
+hello this is siddhartha
+d
+d
+d
+hello
+this is sidhh
+and these are the logs you ar watching to be appended 
+hello
+wow
+hwyyyy
+hwllo this is siddhartha from second window
+from first window
+hey
+hey his
+hey | hello this i| sidd
+hello this| is
+siddhartha
+siddhartha
+siddhartha
+and these are the logs
+helllo |^helllo this is siddharhta|^all the logs|^all the logs|^all the logsare here |^all the logsare here |^i m the boss|^d|^d|^ 
+d|^ 
+tgis is sidd|^ 
+well how are tuo|^ 
+this is the second one|^ 
+this is the second one|^ 
+from second|^ 
+from second|^ 
+from second|^ 
+from second|^ 
+from second|^ 
+and|^ 
+i am the boss|^ 
+Hello my name is Alakhdeep singh|^ 
+uvbrwvinlv|^ 
+v wdlveepc|^ 
+jvdon ndlk|^ 
+nndvkmv|^ 
+hello lolololololollalalalal|^ 
